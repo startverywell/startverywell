@@ -66,3 +66,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=startverywell&" alt="startverywell" /></p>
 </div>
+## 💜 Details
+
+<details open>
+  <summary><strong>🖱️ Toggle Collapse/Expand</strong></summary>
+  <picture>
+    <img src="/github-metrics.svg" alt="Metrics">
+  </picture>
+</details> 
